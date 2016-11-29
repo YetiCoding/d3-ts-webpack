@@ -1,0 +1,4 @@
+/node_modules/
+/release/
+/typings/
+.DS_Store
